@@ -79,7 +79,7 @@ Original file is located at
 #
 # print('Data source import complete.')
 
-!pip install ftfy
+
 
 import torch
 from torch.utils.data import Dataset, DataLoader
